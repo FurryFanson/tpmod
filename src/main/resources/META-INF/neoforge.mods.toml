@@ -7,6 +7,7 @@ version = "1.0.0"
 displayName = "TP Mod"
 authors = "你的名字"
 description = "允许所有玩家使用 /tp 指令，无需作弊"
+license = "MIT"
 
 [[dependencies.tpmod]]
 modId = "neoforge"
