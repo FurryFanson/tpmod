@@ -18,5 +18,5 @@ repositories {
 }
 
 dependencies {
-    implementation "net.neoforged:neoforge:21.1.0"
+    implementation "net.neoforged:neoforge:21.1.65"
 }
