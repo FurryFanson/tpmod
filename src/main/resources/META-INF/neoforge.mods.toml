@@ -1,0 +1,16 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+
+[[mods]]
+modId = "tpmod"
+version = "1.0.0"
+displayName = "TP Mod"
+authors = "你的名字"
+description = "允许所有玩家使用 /tp 指令，无需作弊"
+
+[[dependencies.tpmod]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
